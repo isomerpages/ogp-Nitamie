@@ -9,7 +9,34 @@ description: ""
 
 
 
-| one | two | three |
-| -------- | -------- | -------- |
-| apple     | pear     | orange    |
-| red     | green     | blue    |
+
+
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+
+	
+<table>
+	<tbody><tr>
+		<td>one</td>
+		<td>two</td>
+		<td>three</td>
+	</tr>
+	<tr>
+		<td>apple</td>
+		<td>pear</td>
+		<td>orange</td>
+	</tr>
+	<tr>
+		<td>red</td>
+		<td>green</td>
+		<td>blue</td>
+	</tr></tbody></table>
+	
+  
+
+
