@@ -37,4 +37,3 @@ table, th, td {
 		<td>green</td>
 		<td>blue</td>
 	</tr></tbody></table>
-	
